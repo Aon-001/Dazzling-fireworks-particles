@@ -1,0 +1,15 @@
+# 仅忽略dist目录下的超大可执行文件/安装包，保留图片、配置等资源
+dist/*.exe
+
+
+# 忽略build目录下的大包文件（build多为打包临时产物，按需保留）
+*.pkg
+
+
+# Python 运行缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包配置备份
+*.spec.bak
