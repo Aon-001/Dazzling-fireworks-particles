@@ -7,4 +7,6 @@ dist-a里是自己下载/制作的素材，不可商用；
 
 ## 运行效果
 
-![烟花程序演示](https://github.com/user-attachments/assets/1d712d4d-1d69-4c9c-9486-5616b1dfa8c8)
+![烟花程序演示1](https://github.com/user-attachments/assets/1d712d4d-1d69-4c9c-9486-5616b1dfa8c8)
+
+![烟花程序演示2](https://github.com/user-attachments/assets/bff6a780-2fee-490d-864a-b1d58955cf99)
