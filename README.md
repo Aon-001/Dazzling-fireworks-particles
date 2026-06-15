@@ -7,7 +7,7 @@ dist-a里是自己下载/制作的素材，不可商用；
 本代码由ai辅助生成，适用于最新版python，不懂也可以拿py文件去问ai；
 pygame内部代码用到了Python官方已经废弃的pkg_resources库，运行时可能会打印这条红字提醒
 
-注意!!!sysfont已经被废弃了但本人的文字效果全是sysfont,记得改成.Font(字体,字号),让ai帮你调整;
+注意!!!sysfont在py2.6版本不适用，但本人的文字效果全是sysfont,记得改成.Font(字体,字号),让ai帮你调整;
 
 没有别的任何逻辑错误,放心使用
 
