@@ -1,4 +1,4 @@
-# Dazzling-fireworks-particles
+# Dazzling-fireworks-particles烟花粒子
 用python代码放烟花，可调节背景、音乐、烟花粒子状态；
 一开始将build，dist，py，spec都放在一个叫resource的文件夹里了，所以py会有开头的def；
 dist-a里是自己下载/制作的素材，不可商用；
